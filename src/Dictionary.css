@@ -8,7 +8,7 @@
   text-align: center;
 }
 .Dictionary .hint {
-  font-size: 10px;
+  font-size: 12px;
   margin-top: 5px;
 }
 .Dictionary input {
@@ -19,7 +19,7 @@
   padding: 6px 4px;
 }
 .Dictionary section {
-  background: whitesmoke;
+  background: rgba(245, 245, 245, 0.815);
   padding: 30px;
   border-radius: 5px;
   box-shadow: 0px 5px 15px rgba(0, 0, 0, 10%);
